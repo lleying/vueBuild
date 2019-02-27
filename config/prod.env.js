@@ -1,5 +1,4 @@
 'use strict'
-console.log('bms正式')
 
 module.exports = {
   NODE_ENV: '"production"',

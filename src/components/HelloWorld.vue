@@ -93,7 +93,7 @@ export default {
   },
   mounted () {
     var root = process.env.BASE_API
-    console.log(root, '打印的地址')
+    console.log(root, '测试测试合并')
   }
 }
 </script>
